@@ -1,0 +1,14 @@
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Service\bin\Debug\Titanik.Service.dll
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Service\bin\Debug\Titanik.Service.pdb
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Service\obj\Debug\Titanik.Service.csprojAssemblyReference.cache
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Service\obj\Debug\Titanik.Service.dll
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Service\obj\Debug\Titanik.Service.pdb
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Service\bin\Debug\Titanik.Repository.dll
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Service\bin\Debug\Titanik.Repository.pdb
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Service\bin\Debug\Titanik.Repository.dll.config
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Service\obj\Debug\Titanik.Service.csproj.CopyComplete
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Service\bin\Debug\Titanik.Service.dll.config
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Service\bin\Debug\EntityFramework.dll
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Service\bin\Debug\EntityFramework.xml
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Service\bin\Debug\EntityFramework.SqlServer.xml
