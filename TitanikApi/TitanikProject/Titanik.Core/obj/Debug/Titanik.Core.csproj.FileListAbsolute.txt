@@ -1,0 +1,17 @@
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\bin\Debug\Titanik.Core.dll
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\bin\Debug\Titanik.Core.pdb
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\bin\Debug\Newtonsoft.Json.dll
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\bin\Debug\Ninject.dll
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\bin\Debug\System.Web.Http.dll
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\bin\Debug\Newtonsoft.Json.xml
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\bin\Debug\Ninject.xml
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\bin\Debug\System.Net.Http.Formatting.xml
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\bin\Debug\System.Web.Http.xml
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\obj\Debug\Titanik.Core.csprojAssemblyReference.cache
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\obj\Debug\Titanik.Core.csproj.CopyComplete
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\obj\Debug\Titanik.Core.dll
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\obj\Debug\Titanik.Core.pdb
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\bin\Debug\System.Web.Cors.dll
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\bin\Debug\System.Web.Http.Cors.dll
+C:\PrivateProject\AkbankProject\TitanikApi\TitanikProject\Titanik.Core\bin\Debug\System.Web.Http.Cors.xml
